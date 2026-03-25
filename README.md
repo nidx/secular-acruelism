@@ -22,7 +22,7 @@ It is not left or right. Not capitalist or socialist. Not utopian or pragmatic. 
 - **Fully secular governance** — religion has zero role in the structure of power
 - **Worker-owned cooperatives** — labor makes the decisions, capital gets bonds not votes
 - **Liquid democracy** — delegate your vote to proxies you trust, or vote directly
-- **Graded consensus** — not yes/no, not majority rule, but a spectrum of acceptance
+- **Graded consensus** — measured by cohesion, not count; polarity is the failure signal, not any single vote
 - **Inverse representation** — efficient regions carry greater governance weight
 - **The floor and the ceiling** — universal safety net indexed to standard of living, funded by capping wealth concentration
 - **Justice as healthcare** — tribunals, rehabilitation, no solitary, no punishment

@@ -30,7 +30,7 @@ But the state must be structured so that it cannot itself become the instrument 
 
 **Liquid democracy.** Power is not assigned by geography or inherited by party. Every person may vote directly or delegate their vote to a proxy they trust. Representatives carry the literal weight of those who chose them. Power is earned, continuously, or it evaporates.
 
-**Graded consensus.** Decisions are not binary. A vote is not yes or no — it is a spectrum from enthusiastic support to firm objection. Proposals pass when resistance is minimal, not when a majority overpowers a minority. This is slower. That is the point. Cruelty is fast. Consensus takes time.
+**Graded consensus.** Decisions are not binary. A vote is not yes or no — it is a spectrum from enthusiastic support to firm objection. Consensus is measured by cohesion, not count. When responses cluster together — whether positive, negative, or neutral — that is a clear signal. When responses polarize into opposing camps with nothing in between, the proposal is divisive and must be reworked. No single position holds veto power. No majority can steamroll. The shape of the response tells you whether you have consensus, not the score. This is slower. That is the point. Cruelty is fast. Consensus takes time.
 
 **Inverse representation.** Regions with lower cost of living carry greater weight in commonwealth governance. Efficient communities shape policy more. This prevents wealthy centers from dominating and naturally pulls the system toward efficiency.
 
