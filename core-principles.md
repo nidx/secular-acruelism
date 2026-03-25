@@ -27,7 +27,7 @@ The people who do the labor make the decisions. Enterprises are worker-owned coo
 Representation is earned, not assigned. Any person may vote directly or delegate their vote to a proxy they trust. Proxies carry the actual weight of those who delegated to them. If you choose not to vote or delegate, you have no voice. No one is represented against their will.
 
 ### 7. Graded Consensus
-Decisions are not binary. Votes are expressed on a spectrum — from strong support to active block. A proposal passes when sufficient acceptance exists and no significant resistance remains. This prevents both majority tyranny and minority capture.
+Decisions are not binary. Votes are expressed on a spectrum — from strong support to active block. Consensus is measured by cohesion, not count. A cohesive response — whether unanimously positive, unanimously negative, or broadly in the middle — is a clear signal. A polarized response — split between extremes with no middle — means the proposal is divisive and must be reworked. This prevents both majority tyranny and minority capture.
 
 ### 8. Fractal Governance
 The same principles apply at every scale — a co-op of twenty, a city of two hundred thousand, a federation of millions. No level of organization gets special rules. No branch of governance is exempt from the foundational principles.

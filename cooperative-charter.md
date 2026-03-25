@@ -49,7 +49,7 @@ All decisions are made through graded consensus. Members express their position 
 - **Object** — significant concern, request revision
 - **Block** — fundamental opposition, proposal cannot proceed
 
-A proposal passes when no member blocks and the balance of responses is at "accept" or above. Blocked proposals are revised and resubmitted. Persistent blocks trigger mediation.
+Consensus exists when the distribution of responses is cohesive — clustering in a recognizable direction. A proposal passes when responses cluster toward the positive range without significant polarization. A proposal fails when responses cluster toward the negative range — this is also consensus. A proposal is sent back for revision when responses are polarized — split between extremes with no middle ground. Polarity, not any single position, is the signal that a proposal needs rework. Persistent polarity triggers mediation.
 
 ### 3.4 Operational Delegation
 The membership may delegate day-to-day operational decisions to working groups, coordinators, or rotating managers. All delegated authority is revocable at any time through the standard voting process. No position is permanent.
