@@ -17,7 +17,10 @@ The prohibition applies to every person within the jurisdiction of this commonwe
 ### Section 3. Definition
 Cruelty is the infliction of suffering — physical, psychological, or material — through action or deliberate inaction, upon any person, where such suffering is preventable. The allowance of preventable destitution, deprivation, degradation, or exploitation constitutes cruelty. The destruction of ecosystems upon which future persons depend constitutes cruelty.
 
-### Section 4. Non-Amendment
+### Section 4. On Restriction
+The commonwealth restricts. This is not a contradiction of its principles — it is the mechanism by which they are enforced. A restriction that prevents cruelty is legitimate. A restriction born from cruelty or ignorance is not. The test of any restriction is whether it serves the anti-cruelty principle or violates it.
+
+### Section 5. Non-Amendment
 This article may not be amended, suspended, or overridden. Any process that purports to do so is illegitimate and without force.
 
 ---
