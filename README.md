@@ -10,7 +10,7 @@ It is not left or right. Not capitalist or socialist. Not utopian or pragmatic. 
 
 ## Documents
 
-- **[Core Principles](core-principles.md)** — The twenty-six foundational principles
+- **[Core Principles](core-principles.md)** — The thirty foundational principles
 - **[Short Manifesto](short-manifesto.md)** — One-page overview
 - **[Full Manifesto](manifesto.md)** — Complete articulation of the philosophy
 - **[Constitution](constitution.md)** — Model constitutional framework for a commonwealth
@@ -36,6 +36,7 @@ It is not left or right. Not capitalist or socialist. Not utopian or pragmatic. 
 - **Environmental stewardship** — ecological destruction is cruelty to future citizens
 - **Temporary intellectual property** — creators get returns, ideas become public, trademarks protect authenticity
 - **Advocacy for the vulnerable** — children and the incapacitated get structural voice
+- **AI as public infrastructure** — foundational models are commonwealth-owned, AI informs but never decides
 - **No emergency exceptions** — the constitution is never suspended
 - **System resilience** — if the exception breaks the system, the system is the problem
 

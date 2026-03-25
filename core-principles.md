@@ -83,5 +83,14 @@ Every mentally fit person has the right to choose death for any reason. Forcing 
 ### 25. No Emergency Exceptions
 Emergencies do not suspend the constitution. Emergency protocols are designed in advance through consensus. Trained responders with delegated authority execute those protocols. There are no special powers, no temporary suspensions of rights. "Temporary" emergency powers that never expire are how every other system rots.
 
-### 26. Animal Welfare
+### 27. AI as Infrastructure
+General-purpose AI is a natural monopoly and belongs to the commonwealth. No private entity owns the foundational models. Cooperatives build applications on top of public AI infrastructure, same as they use public roads and power.
+
+### 28. AI Cannot Decide
+AI may assist, inform, and recommend. It may never hold sole or final authority over a person's outcome. Human deliberation and human accountability are non-negotiable. AI cannot replace the consensus process — governance requires human judgment.
+
+### 29. AI Output is Public Domain
+AI-generated work is born into the commons. No one owns what a machine produces. Trademarks still apply — you cannot falsely attribute AI output to a human creator. Training on published works is using the commons; training on private unpublished work requires consent.
+
+### 30. Animal Welfare
 Farming and keeping animals is permitted. Cruelty to animals is not. Specific standards are determined by localities, reflecting local cultural and economic contexts. The principle is the same as everywhere else: cruelty is the line.
