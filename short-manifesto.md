@@ -1,4 +1,4 @@
-# Secular Acruelism
+# Fractal Secular Acruelism
 
 We believe that cruelty is the measure of a system's failure.
 
@@ -20,4 +20,4 @@ The hardest part is not the policy. The hardest part is convincing people that t
 
 Start a co-op. Prove it works. Scale it. Refuse to make exceptions.
 
-That is Secular Acruelism.
+That is Fractal Secular Acruelism.

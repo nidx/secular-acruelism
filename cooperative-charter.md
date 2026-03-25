@@ -1,4 +1,4 @@
-# Model Charter for a Secular Acruelist Cooperative
+# Model Charter for a Fractal Secular Acruelist Cooperative
 
 ## Article 1: Identity and Purpose
 
@@ -6,13 +6,13 @@
 [Name of Cooperative] (hereinafter "the Cooperative")
 
 ### 1.2 Purpose
-The Cooperative exists to [description of goods/services produced] through the collective labor of its worker-members, guided by the principles of Secular Acruelism.
+The Cooperative exists to [description of goods/services produced] through the collective labor of its worker-members, guided by the principles of Fractal Secular Acruelism.
 
 ### 1.3 Foundational Commitment
 The Cooperative operates under the anti-cruelty principle. No decision, policy, or practice of the Cooperative may inflict or enable preventable suffering on its members, its community, or any person affected by its operations. This commitment is not subject to vote.
 
 ### 1.4 Autonomy
-This charter defines the Cooperative's internal governance and values. It operates within whatever legal jurisdiction it is incorporated in, but its internal standards may exceed — and shall never fall below — the principles described here. The Cooperative does not require a Secular Acruelist commonwealth to exist. It is a working demonstration of the model.
+This charter defines the Cooperative's internal governance and values. It operates within whatever legal jurisdiction it is incorporated in, but its internal standards may exceed — and shall never fall below — the principles described here. The Cooperative does not require a Fractal Secular Acruelist commonwealth to exist. It is a working demonstration of the model.
 
 ---
 

@@ -1,10 +1,10 @@
-# Secular Acruelism
+# Fractal Secular Acruelism
 
 A political philosophy built on one principle: **no cruelty, no exceptions.**
 
 ## What is this?
 
-Secular Acruelism is a heterodox political framework that starts from a single moral foundation — the impermissibility of cruelty — and builds practical systems of governance, economics, and justice from that root.
+Fractal Secular Acruelism is a heterodox political framework that starts from a single moral foundation — the impermissibility of cruelty — and builds practical systems of governance, economics, and justice from that root.
 
 It is not left or right. Not capitalist or socialist. Not utopian or pragmatic. It is one principle, applied everywhere, to everyone, without exception.
 

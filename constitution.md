@@ -1,4 +1,4 @@
-# Constitution of the Secular Acruelist Commonwealth
+# Constitution of the Fractal Secular Acruelist Commonwealth
 
 ## Preamble
 

@@ -1,4 +1,4 @@
-# Secular Acruelism: Core Principles
+# Fractal Secular Acruelism: Core Principles
 
 ## The Foundation
 

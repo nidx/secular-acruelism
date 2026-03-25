@@ -1,4 +1,4 @@
-# The Manifesto of Secular Acruelism
+# The Manifesto of Fractal Secular Acruelism
 
 ## I. The Problem
 
@@ -135,6 +135,8 @@ People are not convinced by arguments. They are convinced by examples. The task 
 Start small. Prove it. Scale it. Refuse to make exceptions.
 
 ## XII. The Name
+
+**Fractal** because the same principles apply at every scale — a co-op of twenty, a city of two hundred thousand, a federation of millions. The structure repeats without changing.
 
 **Secular** because governance must be free of religious authority, completely and without compromise.
 
