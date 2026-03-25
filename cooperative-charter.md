@@ -93,49 +93,68 @@ Working conditions must be safe, healthy, and dignified. Hours, pace, and expect
 ### 6.2 Supply Chain
 The Cooperative shall not purchase materials, goods, or services from suppliers engaged in labor exploitation, cruelty, or practices that would violate the anti-cruelty principle if conducted within this Cooperative. Ignorance is not an excuse — the Cooperative has an obligation to investigate its supply chain.
 
-### 6.3 Community Impact
-The Cooperative shall not externalize harm onto its community — environmental, economic, or social. Operations that affect the surrounding community require engagement with that community.
+### 6.3 Environmental Responsibility
+The Cooperative shall not externalize environmental harm. Ecological destruction is cruelty to future persons and is prohibited under the same principle that governs all operations. Waste, emissions, resource use, and environmental impact are subject to commonwealth standards and the anti-cruelty review.
 
-### 6.4 Dispute Resolution
+### 6.4 Community Impact
+The Cooperative shall not externalize harm onto its community — economic or social. Operations that affect the surrounding community require engagement with that community.
+
+### 6.5 Dispute Resolution
 Internal disputes are resolved through mediation and, if necessary, referral to the commonwealth tribunal system. At no point is retaliation, exclusion, or harassment a legitimate response to disagreement.
 
 ---
 
-## Article 7: Relationship to the Commonwealth
+## Article 7: Intellectual Property
 
-### 7.1 Compliance
-The Cooperative operates within and subject to the laws of the Secular Acruelist Commonwealth, including all taxation, trade, and regulatory requirements.
+### 7.1 Trademarks
+The Cooperative's name, marks, and identity are protected as trademarks under commonwealth law. These marks verify authenticity — that goods or services bearing them genuinely originated from this Cooperative.
 
-### 7.2 Taxation
-Individual members are taxed on their income and bond returns in accordance with commonwealth tax policy. The Cooperative itself is not taxed as an entity.
+### 7.2 Creative and Inventive Works
+Works and inventions produced by the Cooperative's members in the course of their labor are subject to commonwealth intellectual property policy. The Cooperative receives meaningful returns for a limited period, after which works enter the public domain.
 
-### 7.3 Floor Contributions
-The Cooperative contributes to the commonwealth floor fund through the payroll mechanisms established by commonwealth fiscal policy.
-
-### 7.4 Education and Training
-The Cooperative coordinates with the commonwealth education system to identify training needs and provide practical experience opportunities. The Cooperative does not operate its own educational institutions.
+### 7.3 No Perpetual Ownership
+The Cooperative may not claim perpetual ownership over ideas, expressions, or inventions. The return window is sufficient to reward the work and incentivize further creation, not to extract indefinitely.
 
 ---
 
-## Article 8: Dissolution
+## Article 8: Relationship to the Commonwealth
 
-### 8.1 Process
+### 8.1 Compliance
+The Cooperative operates within and subject to the laws of the Secular Acruelist Commonwealth, including all taxation, trade, environmental, and regulatory requirements.
+
+### 8.2 Taxation
+Individual members are taxed on their income and bond returns in accordance with commonwealth tax policy. The Cooperative itself is not taxed as an entity.
+
+### 8.3 Floor Contributions
+The Cooperative contributes to the commonwealth floor fund through the payroll mechanisms established by commonwealth fiscal policy.
+
+### 8.4 Education and Training
+The Cooperative coordinates with the commonwealth education system to identify training needs and provide practical experience opportunities. The Cooperative does not operate its own educational institutions.
+
+### 8.5 Land Use
+The Cooperative's facilities occupy land allocated by the locality under commonwealth land policy. The Cooperative does not own land.
+
+---
+
+## Article 9: Dissolution
+
+### 9.1 Process
 The Cooperative may be dissolved only by graded consensus of the full membership with near-universal acceptance.
 
-### 8.2 Obligations
+### 9.2 Obligations
 Upon dissolution, outstanding bond obligations are honored first. Remaining assets are distributed among members equitably. No assets are transferred to non-member private parties.
 
-### 8.3 Anti-Cruelty in Dissolution
+### 9.3 Anti-Cruelty in Dissolution
 Dissolution must not leave members without support. The commonwealth floor guarantees apply, and the Cooperative must provide reasonable transition assistance.
 
 ---
 
-## Article 9: Amendment
+## Article 10: Amendment
 
-### 9.1 Process
+### 10.1 Process
 This charter may be amended by graded consensus of the full membership.
 
-### 9.2 Limitation
+### 10.2 Limitation
 No amendment may contradict the anti-cruelty principle (Article 1.3), eliminate worker sovereignty (Article 3.1), or grant decision-making authority to bondholders (Article 5.2). These provisions are foundational and not subject to amendment.
 
 ---

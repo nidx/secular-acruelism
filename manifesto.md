@@ -14,7 +14,7 @@ We reject the exception.
 
 **A legitimate society is one that does not permit cruelty. Not one that minimizes it. Not one that regrets it. One that does not permit it.**
 
-Cruelty is not ambiguous. It is not a matter of perspective. A person sleeping on the street in a wealthy nation is cruelty. A worker unable to afford medicine is cruelty. A prisoner in solitary confinement is cruelty. A family bankrupted by rent is cruelty. A child's education determined by their parents' wealth is cruelty. Profiting from exploitation abroad is cruelty.
+Cruelty is not ambiguous. It is not a matter of perspective. A person sleeping on the street in a wealthy nation is cruelty. A worker unable to afford medicine is cruelty. A prisoner in solitary confinement is cruelty. A family bankrupted by rent is cruelty. A child's education determined by their parents' wealth is cruelty. Profiting from exploitation abroad is cruelty. Destroying an ecosystem that future generations depend on is cruelty.
 
 You know it when you see it. So does everyone else. The disagreement is not about what cruelty is — it is about whom we are willing to be cruel to.
 
@@ -32,6 +32,8 @@ But the state must be structured so that it cannot itself become the instrument 
 
 **Graded consensus.** Decisions are not binary. A vote is not yes or no — it is a spectrum from enthusiastic support to firm objection. Proposals pass when resistance is minimal, not when a majority overpowers a minority. This is slower. That is the point. Cruelty is fast. Consensus takes time.
 
+**Inverse representation.** Regions with lower cost of living carry greater weight in commonwealth governance. Efficient communities shape policy more. This prevents wealthy centers from dominating and naturally pulls the system toward efficiency.
+
 **No special rules.** The same governance model applies to the tribunal, the legislature, the council, the co-op. No branch gets exemptions. No office gets immunity. The fractal principle: the system is the same at every scale.
 
 ## IV. The Economy
@@ -46,7 +48,13 @@ We keep markets. We remove the flaw.
 
 **Tax concentration, not activity.** There is no corporate tax — the co-op is its workers, and taxing it is taxing them with worse transparency. Instead, tax the individual where the wealth actually accumulates. Progressive income taxation. Bond portfolio taxation. The more passive income you collect, the higher the rate. The goal is not to punish wealth — it is to prevent concentration.
 
-**The floor and the ceiling.** Every person is guaranteed housing, healthcare, education, and sustenance. This is the floor. It is funded by taxation, and if it cannot be funded, that is proof that the ceiling is too low. The maximum any individual may accumulate is not a fixed number — it is whatever allows the floor to hold. These are not separate policies. They are one mechanism.
+**The floor and the ceiling.** Every person is guaranteed housing, healthcare, education, and sustenance. This is the floor — defined by standard of living, not by a dollar amount, and adjusted locally to reflect actual conditions. It is funded by taxation, and if it cannot be funded, that is proof that the ceiling is too low. The maximum any individual may accumulate is not a fixed number — it is whatever allows the floor to hold. These are not separate policies. They are one mechanism.
+
+**Monetary stability.** A central monetary authority maintains economic stability under the same consensus governance as all other institutions. Inflation is a tool, not an enemy. The floor is indexed to reality, so monetary fluctuations cannot quietly erode the guarantee. No insulated technocratic class manages the economy — trained professionals operate with delegated, revocable authority.
+
+**Land as commonwealth.** Land is held by the commonwealth and allocated by localities. You can live on it, build on it, use it — but you cannot own it in a way that enables speculation, hoarding, or rent extraction. This eliminates landlording as a concept and reduces housing costs to the actual cost of building and maintenance.
+
+**Infrastructure as commons.** Natural monopolies — power, water, internet, utilities — are operated by the state. If it's essential and competition doesn't function, it's public. No private entity sits on critical infrastructure extracting rent. The only monopolies are the commonwealth's.
 
 ## V. Justice
 
@@ -60,6 +68,8 @@ This does not mean we reject consequences. A person who harms others may need to
 
 **The floor applies to prisoners.** Healthcare, dignity, humane conditions. A society that tortures its worst members will eventually torture its inconvenient ones.
 
+**The right to die.** Every mentally fit person may choose death for any reason. Forcing someone to live in suffering is cruelty. Fitness is assessed by healthcare professionals, not bureaucrats. The system ensures every option is available first — but ultimately, it is the individual's decision.
+
 **No exceptions.** This is the hardest part. The person who committed an atrocity is still a human being. The principle either holds for everyone or it means nothing.
 
 ## VI. Education
@@ -70,19 +80,51 @@ This is not ideological — it is structural. When the powerful can opt out of t
 
 Education is part of the floor. It is not a market good. It is not a privilege. It is a right, and it is the primary mechanism by which tribalism — the deepest obstacle to a non-cruel society — is addressed across generations.
 
-## VII. The World
+## VII. The Vulnerable
+
+Those who cannot advocate for themselves must have the loudest structural voice.
+
+**Children** are represented by dedicated advocacy bodies with real power in consensus processes. They cannot vote, but their interests carry weight — because they are the highest-need, lowest-autonomy members of society.
+
+**Persons with severe disability, dementia, or incapacity** are represented by the same model. The more vulnerable the group, the stronger their institutional voice.
+
+**Accessibility is built into the floor.** A wheelchair user needs more than an able-bodied person. That is not extra — that is the same guarantee. The floor flexes upward for those who need more. No separate system, no applications, no proving you are disabled enough. You need what you need; you get what you need.
+
+## VIII. The World
 
 The prohibition on cruelty does not stop at the border.
 
-If our co-ops purchase cheap materials produced under conditions of exploitation, we have not eliminated cruelty — we have outsourced it. This is not acceptable.
+**Ethical trade.** If our co-ops purchase cheap materials produced under conditions of exploitation, we have not eliminated cruelty — we have outsourced it. Trade is conditional on baseline standards of worker treatment, welfare, and human rights. Nations that meet these standards receive favorable access. Nations that improve receive better terms. Nations that permit cruelty face restrictions. This will be called protectionism. It is not. It is the refusal to be complicit.
 
-**Ethical trade policy** means trade is conditional on baseline standards of worker treatment, welfare, and human rights. Nations that meet these standards receive favorable access. Nations that improve receive better terms. Nations that permit cruelty face restrictions.
+**Open immigration.** Immigration is open but resource-managed. The limit is not identity — it is the commonwealth's capacity to maintain the floor for everyone, including newcomers. If refugees are at the border, the foreign policy has already failed. The real work is upstream: ethical trade, graduated support, and international engagement that reduces cruelty at its source.
 
-This will be called protectionism. It is not. It is the refusal to be complicit.
+**Pragmatic defense.** A non-cruel state is not a defenseless state. The military exists to protect the commonwealth and its people. Pragmatic use of force to prevent greater harm is legitimate. What is never legitimate: torture of prisoners, targeting of civilians, cruelty as strategy. The anti-cruelty principle constrains how force is used, not whether it exists.
 
-A poorer nation may argue it cannot yet meet these standards. This is addressed with graduated expectations and direct support — not by accepting their citizens' suffering as the cost of our comfort.
+**Environmental obligation.** Ecological destruction is cruelty to future citizens. The anti-cruelty principle extends across time. This is not a separate policy domain — it falls directly under the foundational principle. A co-op dumping waste into a river is the state allowing cruelty to people who do not yet exist but will.
 
-## VIII. The Transition
+## IX. Ideas and Creation
+
+Copyright as it exists is a broken system, and in a world with AI, traditional content ownership is unenforceable.
+
+**Trademarks protect authenticity.** "This is genuinely from us" is a verifiable, enforceable claim. It prevents fraud, which is an anti-cruelty function. Trademarks remain with the cooperative that created them.
+
+**Content enters the public domain.** Creators receive meaningful returns for a limited period — enough to reward the work and incentivize more. After that, the work belongs to everyone. No estate collects royalties decades after the creator dies. No corporation sits on ideas extracting rent.
+
+**If you don't make it public, it's yours.** The act of publishing is the act of sharing. Private work remains private.
+
+**The same ratio applies.** When a corporation extracts 100x what the creator earned from a work, that is the same failure as a co-op paying its CEO 100x the lowest worker. Returns are fine. Extraction is cruelty.
+
+## X. Resilience
+
+If the exception can break the system, the system is the problem — not the exception.
+
+**No emergency powers.** Emergencies do not suspend the constitution. Emergency protocols are designed in advance through consensus. Trained responders with delegated authority execute them. If they overstep, they are accountable after. There are no temporary suspensions of rights. "Temporary" emergency powers that never expire are how every other system rots.
+
+**System strength, not brittle rules.** Every institution must be robust enough to absorb shocks — economic, military, social — without cruelty becoming the release valve. If a single immigrant can break the immigration system, the immigration system is too weak. If a single bad actor can crash the justice system, the justice system is underfunded. Fragility is a design failure, not an excuse for exceptions.
+
+**Inheritance within limits.** Personal wealth may be inherited. People who contribute more should be able to pass that on. But with no land ownership, no company ownership, and the ceiling still in effect, inheritance cannot create dynasties. The scope is naturally bounded.
+
+## XI. The Transition
 
 We do not expect revolution. We expect demonstration.
 
@@ -92,7 +134,7 @@ People are not convinced by arguments. They are convinced by examples. The task 
 
 Start small. Prove it. Scale it. Refuse to make exceptions.
 
-## IX. The Name
+## XII. The Name
 
 **Secular** because governance must be free of religious authority, completely and without compromise.
 
