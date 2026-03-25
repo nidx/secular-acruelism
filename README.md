@@ -41,6 +41,10 @@ It is not left or right. Not capitalist or socialist. Not utopian or pragmatic. 
 - **No emergency exceptions** — the constitution is never suspended
 - **System resilience** — if the exception breaks the system, the system is the problem
 
+## The test
+
+If a system needs an exception, the system is wrong — not the edge case. A principle that requires a carve-out was never a principle. It was a preference. Every part of this framework is held to that standard.
+
 ## Contributing
 
 This is a living framework. Open issues, suggest changes, argue with the principles. The ideas get stronger through challenge.

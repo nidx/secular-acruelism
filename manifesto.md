@@ -144,4 +144,6 @@ Start small. Prove it. Scale it. Refuse to make exceptions.
 
 Not left or right. Not capitalist or socialist. Not utopian or pragmatic. Just one principle, applied everywhere, to everyone, without exception.
 
+If a system needs an exception, the system is wrong — not the edge case. A principle that requires a carve-out was never a principle. It was a preference. We do not build on preferences.
+
 That is enough.
