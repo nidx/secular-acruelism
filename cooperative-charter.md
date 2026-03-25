@@ -49,6 +49,8 @@ All decisions are made through graded consensus. Members express their position 
 - **Object** — significant concern, request revision
 - **Block** — fundamental opposition, proposal cannot proceed
 
+Votes are fractional — a member may distribute their weight across multiple positions on the scale. A member who mostly supports but has reservations can place weight at both "support" and "object" rather than being forced to choose one. This allows honest expression of ambivalence and provides structural privacy, as individual positions are untraceable.
+
 Consensus exists when the distribution of responses is cohesive — clustering in a recognizable direction. A proposal passes when responses cluster toward the positive range without significant polarization. A proposal fails when responses cluster toward the negative range — this is also consensus. A proposal is sent back for revision when responses are polarized — split between extremes with no middle ground. Polarity is determined mathematically by distribution shape analysis (unimodal vs bimodal), not by human judgment or any single vote position. The algorithm is transparent and auditable. Persistent polarity triggers mediation.
 
 ### 3.4 Operational Delegation

@@ -27,7 +27,7 @@ The people who do the labor make the decisions. Enterprises are worker-owned coo
 Representation is earned, not assigned. Any person may vote directly or delegate their vote to a proxy they trust. Proxies carry the actual weight of those who delegated to them. If you choose not to vote or delegate, you have no voice. No one is represented against their will.
 
 ### 7. Graded Consensus
-Decisions are not binary. Votes are expressed on a spectrum — from strong support to active block. Consensus is measured by cohesion, not count. A cohesive response — whether unanimously positive, unanimously negative, or broadly in the middle — is a clear signal. A polarized response — split between extremes with no middle — means the proposal is divisive and must be reworked. Polarity is determined algorithmically by distribution shape — real opposition cannot be masked by strategic voting. This prevents both majority tyranny and minority capture.
+Decisions are not binary. Votes are expressed on a spectrum — from strong support to active block. Votes are fractional — a single person may distribute their weight across multiple positions on the spectrum, expressing genuine ambivalence rather than being forced into a single stance. Consensus is measured by cohesion, not count. A cohesive response — whether unanimously positive, unanimously negative, or broadly in the middle — is a clear signal. A polarized response — split between extremes with no middle — means the proposal is divisive and must be reworked. Polarity is determined algorithmically by distribution shape — real opposition cannot be masked by strategic voting, and fractional voting makes individual positions untraceable even if the ledger is compromised. This prevents both majority tyranny and minority capture.
 
 ### 8. Fractal Governance
 The same principles apply at every scale — a co-op of twenty, a city of two hundred thousand, a federation of millions. No level of organization gets special rules. No branch of governance is exempt from the foundational principles.
@@ -83,14 +83,14 @@ Every mentally fit person has the right to choose death for any reason. Forcing 
 ### 25. No Emergency Exceptions
 Emergencies do not suspend the constitution. Emergency protocols are designed in advance through consensus. Trained responders with delegated authority execute those protocols. There are no special powers, no temporary suspensions of rights. "Temporary" emergency powers that never expire are how every other system rots.
 
-### 27. AI as Infrastructure
+### 26. AI as Infrastructure
 General-purpose AI is a natural monopoly and belongs to the commonwealth. No private entity owns the foundational models. Cooperatives build applications on top of public AI infrastructure, same as they use public roads and power.
 
-### 28. AI Cannot Decide
+### 27. AI Cannot Decide
 AI may assist, inform, and recommend. It may never hold sole or final authority over a person's outcome. Human deliberation and human accountability are non-negotiable. AI cannot replace the consensus process — governance requires human judgment.
 
-### 29. AI Output is Public Domain
+### 28. AI Output is Public Domain
 AI-generated work is born into the commons. No one owns what a machine produces. Trademarks still apply — you cannot falsely attribute AI output to a human creator. Training on published works is using the commons; training on private unpublished work requires consent.
 
-### 30. Animal Welfare
+### 29. Animal Welfare
 Farming and keeping animals is permitted. Cruelty to animals is not. Specific standards are determined by localities, reflecting local cultural and economic contexts. The principle is the same as everywhere else: cruelty is the line.
