@@ -94,6 +94,9 @@ External investment in cooperatives is conducted through bond instruments. Bonds
 ### Section 3. Bond Market Regulation
 The bond market is regulated by the commonwealth to prevent concentration of bond holdings that would grant de facto control over enterprises or sectors. Portfolio taxation, holding limits, and transparency requirements shall be maintained.
 
+### Section 3a. No Perpetual Bonds
+All bonds must have a defined maturity. No bond instrument may confer a perpetual or indefinite stake in an enterprise. Upon maturity, the bondholder receives their principal and any final returns owed. If they wish to continue investing, they purchase new bonds at current terms. This prevents bonds from becoming de facto equity through duration.
+
 ### Section 4. No Corporate Taxation
 Cooperatives are not taxed as entities. Taxation is levied on individuals at the point of income and wealth accumulation.
 

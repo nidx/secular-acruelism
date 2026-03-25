@@ -37,6 +37,7 @@ It is not left or right. Not capitalist or socialist. Not utopian or pragmatic. 
 - **Temporary intellectual property** — creators get returns, ideas become public, trademarks protect authenticity
 - **Advocacy for the vulnerable** — children and the incapacitated get structural voice
 - **AI as public infrastructure** — foundational models are commonwealth-owned, AI informs but never decides
+- **No perpetual control** — bonds mature, IP expires, land is allocated not owned, everything has a lifecycle
 - **No emergency exceptions** — the constitution is never suspended
 - **System resilience** — if the exception breaks the system, the system is the problem
 

@@ -92,5 +92,8 @@ AI may assist, inform, and recommend. It may never hold sole or final authority 
 ### 28. AI Output is Public Domain
 AI-generated work is born into the commons. No one owns what a machine produces. Trademarks still apply — you cannot falsely attribute AI output to a human creator. Training on published works is using the commons; training on private unpublished work requires consent.
 
-### 29. Animal Welfare
+### 29. No Perpetual Control
+Nothing is owned or controlled in perpetuity. Bonds mature. Intellectual property enters the public domain. Land is allocated, not owned. Proxy delegations are revocable. Governance positions are temporary. Trademarks protect authenticity but do not confer permanent monopoly over ideas. Perpetual control is concentration by another name — it accumulates power silently over time. Everything has a lifecycle.
+
+### 30. Animal Welfare
 Farming and keeping animals is permitted. Cruelty to animals is not. Specific standards are determined by localities, reflecting local cultural and economic contexts. The principle is the same as everywhere else: cruelty is the line.
