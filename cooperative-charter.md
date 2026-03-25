@@ -103,7 +103,7 @@ Investors receive regular, honest reporting on the Cooperative's financial perfo
 Working conditions must be safe, healthy, and dignified. Hours, pace, and expectations are set by the membership through graded consensus. No member may be compelled to work in conditions that endanger their physical or mental health.
 
 ### 6.2 Supply Chain
-The Cooperative shall not knowingly purchase materials, goods, or services from suppliers engaged in labor exploitation or cruelty. The Cooperative has an obligation to investigate its supply chain to the extent practical, and to choose ethical alternatives where they exist, even at higher cost.
+The Cooperative acknowledges that fully ethical supply chains are not always achievable in the current global economy. The obligation is to make good-faith, continuous effort: investigate supply chains to the extent practical, prefer ethical suppliers where they exist, and actively work toward reducing reliance on sources of cruelty over time. Perfection is not the standard — honest, sustained effort to do better is.
 
 ### 6.3 Environmental Responsibility
 The Cooperative shall not externalize environmental harm. Waste, emissions, and resource use are the Cooperative's responsibility. Where the Cooperative cannot eliminate harm, it shall minimize it and transparently report what remains.
