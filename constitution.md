@@ -98,7 +98,7 @@ Cooperatives are not taxed as entities. Taxation is levied on individuals at the
 A central monetary authority maintains economic stability and currency management. This authority operates under the same liquid democracy and graded consensus governance as all other commonwealth institutions. Positions are delegated, not permanent, and revocable at any time. Inflation is managed as a tool of economic health. The floor is indexed to real conditions, ensuring monetary fluctuations cannot quietly erode the guarantee.
 
 ### Section 6. Trade Policy
-Trade with external nations is conditional on adherence to baseline standards of worker treatment, human rights, and welfare. The commonwealth shall maintain a graduated system of trade incentives for nations meeting or exceeding these standards and trade restrictions for nations that do not. No enterprise within the commonwealth may profit from cruelty abroad.
+Trade with external nations is conditional on adherence to baseline standards of worker treatment, human rights, and welfare. The commonwealth shall maintain a graduated system of trade incentives for nations meeting or exceeding these standards and trade restrictions for nations that do not. The obligation is sustained, good-faith effort toward reducing complicity in cruelty — not an impossible demand for purity in a complex global economy.
 
 ---
 
@@ -132,8 +132,8 @@ The governance model described in this article applies identically at every leve
 ### Section 5. No Permanent Office
 No individual holds any governing position permanently. All positions are subject to ongoing proxy delegation and may be revoked by withdrawal of delegated votes. There are no lifetime appointments.
 
-### Section 6. Transparency
-All votes, delegations, deliberations, and decisions of governance are public record.
+### Section 6. Transparency and Privacy
+Decisions, deliberations, and outcomes of governance are public record. Individual votes are private, recorded on a secure state ledger and subject to tribunal audit for integrity. Delegations are visible to the delegating party and to auditors, but not to the public. The system is verifiable without being surveillant.
 
 ---
 
@@ -143,7 +143,13 @@ All votes, delegations, deliberations, and decisions of governance are public re
 The justice system of this commonwealth operates on the principle that harmful behavior is a condition to be understood and addressed, not a transgression to be punished. The purpose of justice is to repair harm, rehabilitate the person who caused it, and prevent recurrence.
 
 ### Section 2. Tribunals
-Cases are heard by tribunals of trained professionals in law, psychology, and restorative practice. There are no juries. Tribunal members are selected through the same liquid democracy and graded consensus process as all other positions of governance.
+Cases are heard by tribunals of trained professionals in law, psychology, and restorative practice. There are no juries. All tribunals are panels — no individual may hold sole decision-making authority over another person's case. Tribunal members are selected through the same liquid democracy and graded consensus process as all other positions of governance.
+
+### Section 2a. Layered Jurisdiction
+Tribunals operate at local, regional, and commonwealth levels. Cases originate at the lowest appropriate level. Decisions may be appealed to the next level. Each level is a distinct panel — no member of a lower tribunal participates in an appeal of their own decision. The commonwealth tribunal is the final authority on constitutional interpretation, subject to the supremacy of Article I.
+
+### Section 2b. Universal Jurisdiction
+Tribunals serve as the resolution mechanism for all matters not addressed by existing protocol — including disability and accessibility assessment disputes, novel emergency situations, governance disputes, and any edge case where existing rules are insufficient. Where no process exists, the tribunal process applies.
 
 ### Section 3. Separation
 Where a person presents an ongoing danger to others, they may be separated from the general population. Separation is a last resort and must be conducted humanely. Separated persons retain all rights guaranteed by Article III.

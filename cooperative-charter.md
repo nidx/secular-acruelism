@@ -57,8 +57,8 @@ The membership may delegate day-to-day operational decisions to working groups, 
 ### 3.5 Scaling Governance
 As the Cooperative grows, governance may be organized fractally — teams, departments, or divisions making decisions through the same graded consensus model at their level, with cross-cutting decisions escalated to broader membership votes. The governance model adapts to scale without changing in principle.
 
-### 3.6 Transparency
-All financial records, decisions, deliberations, and vote results are accessible to every member at all times.
+### 3.6 Transparency and Privacy
+Financial records, decisions, deliberations, and vote outcomes are accessible to every member. Individual votes are private. Vote records are maintained securely and subject to audit for integrity. Members can verify the system is honest without exposing how anyone voted.
 
 ---
 
