@@ -6,10 +6,13 @@
 [Name of Cooperative] (hereinafter "the Cooperative")
 
 ### 1.2 Purpose
-The Cooperative exists to [description of goods/services produced] through the collective labor of its worker-members, in accordance with the principles of Secular Acruelism.
+The Cooperative exists to [description of goods/services produced] through the collective labor of its worker-members, guided by the principles of Secular Acruelism.
 
 ### 1.3 Foundational Commitment
 The Cooperative operates under the anti-cruelty principle. No decision, policy, or practice of the Cooperative may inflict or enable preventable suffering on its members, its community, or any person affected by its operations. This commitment is not subject to vote.
+
+### 1.4 Autonomy
+This charter defines the Cooperative's internal governance and values. It operates within whatever legal jurisdiction it is incorporated in, but its internal standards may exceed — and shall never fall below — the principles described here. The Cooperative does not require a Secular Acruelist commonwealth to exist. It is a working demonstration of the model.
 
 ---
 
@@ -32,7 +35,7 @@ A member may be removed only through graded consensus of the full membership and
 ## Article 3: Governance
 
 ### 3.1 Authority
-All decision-making authority rests with the worker-members. No external party — investor, creditor, regulator beyond the commonwealth, or other entity — holds decision-making power within the Cooperative.
+All decision-making authority rests with the worker-members. No external party — investor, creditor, or other entity — holds decision-making power within the Cooperative.
 
 ### 3.2 Direct and Proxy Voting
 Every member may vote directly on any matter or delegate their vote to another member as proxy. Delegation may be revoked at any time. A proxy carries the weight of all votes delegated to them.
@@ -51,7 +54,10 @@ A proposal passes when no member blocks and the balance of responses is at "acce
 ### 3.4 Operational Delegation
 The membership may delegate day-to-day operational decisions to working groups, coordinators, or rotating managers. All delegated authority is revocable at any time through the standard voting process. No position is permanent.
 
-### 3.5 Transparency
+### 3.5 Scaling Governance
+As the Cooperative grows, governance may be organized fractally — teams, departments, or divisions making decisions through the same graded consensus model at their level, with cross-cutting decisions escalated to broader membership votes. The governance model adapts to scale without changing in principle.
+
+### 3.6 Transparency
 All financial records, decisions, deliberations, and vote results are accessible to every member at all times.
 
 ---
@@ -62,17 +68,20 @@ All financial records, decisions, deliberations, and vote results are accessible
 All members receive compensation for their labor. The ratio between the highest-compensated and lowest-compensated member shall not exceed [X]:1. This ratio is set by graded consensus of the membership.
 
 ### 4.2 Surplus Distribution
-After operating costs, bond obligations, commonwealth taxes, and reserve contributions, remaining surplus is distributed among members. The method of distribution — equal shares, hours-based, role-based, or other — is decided by graded consensus.
+After operating costs, bond obligations, applicable taxes, and reserve contributions, remaining surplus is distributed among members. The method of distribution — equal shares, hours-based, role-based, or other — is decided by graded consensus.
 
 ### 4.3 No Unpaid Labor
 No member performs labor for the Cooperative without compensation. Probationary members are compensated from day one.
+
+### 4.4 Floor Commitment
+Where the Cooperative operates in a jurisdiction without adequate public safety nets, it shall make reasonable efforts to ensure that no member's total compensation falls below what is needed for dignity — housing, healthcare, sustenance, and education access in their local context.
 
 ---
 
 ## Article 5: Investment and Bonds
 
 ### 5.1 Bond Issuance
-The Cooperative may raise capital by issuing bonds. Bonds entitle the holder to a return tied to the Cooperative's performance, as defined in the bond terms.
+The Cooperative may raise capital by issuing bonds or equivalent instruments permitted by local law. Bonds entitle the holder to a return tied to the Cooperative's performance, as defined in the bond terms.
 
 ### 5.2 No Ownership
 Bonds do not confer ownership, voting rights, membership, or any form of decision-making authority within the Cooperative. A bondholder has no more governance power than any other non-member.
@@ -80,8 +89,11 @@ Bonds do not confer ownership, voting rights, membership, or any form of decisio
 ### 5.3 Bond Terms
 The terms of any bond issuance — return rate, duration, tradability, and relationship to performance metrics — are set by graded consensus of the membership. No bond may be issued on terms that compromise the Cooperative's ability to maintain the wage floor or surplus distribution.
 
-### 5.4 Transparency to Bondholders
-Bondholders receive regular, honest reporting on the Cooperative's financial performance. They are entitled to accurate information. They are not entitled to influence.
+### 5.4 Alternative Financing
+Where bond instruments are not practical under local law, the Cooperative may use other financing mechanisms — loans, revenue-sharing agreements, or similar — provided they do not confer ownership or decision-making authority. The principle is constant; the instrument adapts.
+
+### 5.5 Transparency to Investors
+Investors receive regular, honest reporting on the Cooperative's financial performance. They are entitled to accurate information. They are not entitled to influence.
 
 ---
 
@@ -91,48 +103,45 @@ Bondholders receive regular, honest reporting on the Cooperative's financial per
 Working conditions must be safe, healthy, and dignified. Hours, pace, and expectations are set by the membership through graded consensus. No member may be compelled to work in conditions that endanger their physical or mental health.
 
 ### 6.2 Supply Chain
-The Cooperative shall not purchase materials, goods, or services from suppliers engaged in labor exploitation, cruelty, or practices that would violate the anti-cruelty principle if conducted within this Cooperative. Ignorance is not an excuse — the Cooperative has an obligation to investigate its supply chain.
+The Cooperative shall not knowingly purchase materials, goods, or services from suppliers engaged in labor exploitation or cruelty. The Cooperative has an obligation to investigate its supply chain to the extent practical, and to choose ethical alternatives where they exist, even at higher cost.
 
 ### 6.3 Environmental Responsibility
-The Cooperative shall not externalize environmental harm. Ecological destruction is cruelty to future persons and is prohibited under the same principle that governs all operations. Waste, emissions, resource use, and environmental impact are subject to commonwealth standards and the anti-cruelty review.
+The Cooperative shall not externalize environmental harm. Waste, emissions, and resource use are the Cooperative's responsibility. Where the Cooperative cannot eliminate harm, it shall minimize it and transparently report what remains.
 
 ### 6.4 Community Impact
-The Cooperative shall not externalize harm onto its community — economic or social. Operations that affect the surrounding community require engagement with that community.
+The Cooperative shall not externalize harm onto its community — economic or social. Operations that significantly affect the surrounding community require engagement with that community.
 
 ### 6.5 Dispute Resolution
-Internal disputes are resolved through mediation and, if necessary, referral to the commonwealth tribunal system. At no point is retaliation, exclusion, or harassment a legitimate response to disagreement.
+Internal disputes are resolved through mediation and, if necessary, external arbitration or referral to the relevant legal system. At no point is retaliation, exclusion, or harassment a legitimate response to disagreement.
+
+### 6.6 Accessibility
+The Cooperative shall make reasonable accommodations for members with disabilities or additional needs. The goal is full participation, not minimum compliance.
 
 ---
 
 ## Article 7: Intellectual Property
 
 ### 7.1 Trademarks
-The Cooperative's name, marks, and identity are protected as trademarks under commonwealth law. These marks verify authenticity — that goods or services bearing them genuinely originated from this Cooperative.
+The Cooperative's name, marks, and identity are protected under applicable trademark law. These marks verify authenticity — that goods or services bearing them genuinely originated from this Cooperative.
 
-### 7.2 Creative and Inventive Works
-Works and inventions produced by the Cooperative's members in the course of their labor are subject to commonwealth intellectual property policy. The Cooperative receives meaningful returns for a limited period, after which works enter the public domain.
+### 7.2 Works and Inventions
+The Cooperative's policy on works and inventions created by members is determined by graded consensus. The guiding principle is that creators should be rewarded, but ideas should not be locked away indefinitely. Where practical, the Cooperative favors limited return periods followed by open release.
 
-### 7.3 No Perpetual Ownership
-The Cooperative may not claim perpetual ownership over ideas, expressions, or inventions. The return window is sufficient to reward the work and incentivize further creation, not to extract indefinitely.
+### 7.3 Open by Default
+Where the Cooperative produces knowledge, tools, or processes that could benefit the broader community and their release does not threaten the Cooperative's viability, the default is openness.
 
 ---
 
-## Article 8: Relationship to the Commonwealth
+## Article 8: Legal Compliance and Aspirations
 
 ### 8.1 Compliance
-The Cooperative operates within and subject to the laws of the Secular Acruelist Commonwealth, including all taxation, trade, environmental, and regulatory requirements.
+The Cooperative operates within the laws of its jurisdiction, including all taxation, labor, trade, and regulatory requirements.
 
-### 8.2 Taxation
-Individual members are taxed on their income and bond returns in accordance with commonwealth tax policy. The Cooperative itself is not taxed as an entity.
+### 8.2 Exceeding Requirements
+Where local law sets a lower standard than this charter — on worker treatment, environmental responsibility, supply chain ethics, or any other matter — this charter's standard applies. The Cooperative does not use legal minimums as its ceiling.
 
-### 8.3 Floor Contributions
-The Cooperative contributes to the commonwealth floor fund through the payroll mechanisms established by commonwealth fiscal policy.
-
-### 8.4 Education and Training
-The Cooperative coordinates with the commonwealth education system to identify training needs and provide practical experience opportunities. The Cooperative does not operate its own educational institutions.
-
-### 8.5 Land Use
-The Cooperative's facilities occupy land allocated by the locality under commonwealth land policy. The Cooperative does not own land.
+### 8.3 Taxation
+The Cooperative complies with applicable tax law. Where the Cooperative has discretion in structuring compensation and distributions, it favors transparency and individual-level taxation over entity-level complexity.
 
 ---
 
@@ -142,10 +151,10 @@ The Cooperative's facilities occupy land allocated by the locality under commonw
 The Cooperative may be dissolved only by graded consensus of the full membership with near-universal acceptance.
 
 ### 9.2 Obligations
-Upon dissolution, outstanding bond obligations are honored first. Remaining assets are distributed among members equitably. No assets are transferred to non-member private parties.
+Upon dissolution, outstanding obligations to investors and creditors are honored first. Remaining assets are distributed among members equitably. No assets are transferred to non-member private parties.
 
-### 9.3 Anti-Cruelty in Dissolution
-Dissolution must not leave members without support. The commonwealth floor guarantees apply, and the Cooperative must provide reasonable transition assistance.
+### 9.3 Member Support
+Dissolution must not leave members without support. The Cooperative shall provide reasonable transition assistance — notice, severance, and support in finding new work — to the extent its remaining resources allow.
 
 ---
 
@@ -155,7 +164,7 @@ Dissolution must not leave members without support. The commonwealth floor guara
 This charter may be amended by graded consensus of the full membership.
 
 ### 10.2 Limitation
-No amendment may contradict the anti-cruelty principle (Article 1.3), eliminate worker sovereignty (Article 3.1), or grant decision-making authority to bondholders (Article 5.2). These provisions are foundational and not subject to amendment.
+No amendment may contradict the anti-cruelty principle (Article 1.3), eliminate worker sovereignty (Article 3.1), or grant decision-making authority to investors (Article 5.2). These provisions are foundational and not subject to amendment.
 
 ---
 
