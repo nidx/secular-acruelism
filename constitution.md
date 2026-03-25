@@ -259,7 +259,23 @@ The ratio of returns extracted from a work by parties other than the creator sha
 
 ---
 
-## Article XV: Artificial Intelligence
+## Article XV: Media and Information
+
+### Section 1. State Media
+The commonwealth operates public media as essential infrastructure. State media is governed by the same liquid democracy and graded consensus model as all other institutions. It is constitutionally bound to the anti-cruelty principle, secular governance, and transparency. State media may not serve as a propaganda instrument — editorial polarity is subject to the same cohesion requirements as all governance.
+
+### Section 2. Independent Media
+Independent media operates freely within the commonwealth, subject to regulation under the anti-cruelty principle. Publication, journalism, commentary, and creative expression are permitted without prior restraint.
+
+### Section 3. Regulation
+Media regulation addresses harm, not content. Deliberate disinformation that causes material harm to persons is subject to the anti-cruelty principle. Regulation is enforced through the tribunal system, not through prior censorship.
+
+### Section 4. Informed Consensus
+The integrity of the consensus governance model depends on the quality of available information. The commonwealth has an affirmative obligation to ensure that reliable, accessible information exists on all matters of public governance.
+
+---
+
+## Article XVI: Artificial Intelligence
 
 ### Section 1. Infrastructure
 General-purpose artificial intelligence systems are essential infrastructure and are operated by the commonwealth. No private entity may hold monopoly control over foundational AI systems. Cooperatives may build specific applications upon commonwealth AI infrastructure.
@@ -278,7 +294,7 @@ AI systems may be trained on works that are in the public domain. Private, unpub
 
 ---
 
-## Article XVI: Emergency Protocols
+## Article XVII: Emergency Protocols
 
 ### Section 1. No Suspension
 No emergency — natural, military, economic, medical, or otherwise — suspends any provision of this constitution. The anti-cruelty principle, the floor guarantee, and all rights herein are in effect at all times.
@@ -294,7 +310,7 @@ Any action taken under emergency delegation that exceeds the scope of pre-approv
 
 ---
 
-## Article XVII: System Resilience
+## Article XVIII: System Resilience
 
 ### Section 1. Design Obligation
 All institutions of this commonwealth shall be designed to absorb shocks without cruelty becoming the release valve. If a single edge case can break a system, the system is the failure — not the edge case.
@@ -304,7 +320,7 @@ Institutions are subject to ongoing review for fragility. Identified weaknesses 
 
 ---
 
-## Article XVIII: Amendment
+## Article XIX: Amendment
 
 ### Section 1. Process
 This constitution may be amended through the graded consensus process described in Article VII, conducted at the commonwealth level, with a threshold of near-universal acceptance.
@@ -317,7 +333,7 @@ Every proposed amendment must be reviewed for compliance with Article I before i
 
 ---
 
-## Article XIX: Supremacy and Interpretation
+## Article XX: Supremacy and Interpretation
 
 ### Section 1. Hierarchy
 In all cases of conflict between articles, provisions, or laws: Article I prevails over all others. The principle of non-cruelty is the final standard of interpretation.
