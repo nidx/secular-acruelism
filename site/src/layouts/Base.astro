@@ -35,9 +35,10 @@ const fullTitle = title === 'Home'
     <slot />
   </main>
   <footer class="footer">
+    <div class="footer-rule"></div>
     <div class="footer-inner">
-      <p>Fractal Secular Acruelism</p>
-      <p class="footer-sub">No cruelty. No exceptions.</p>
+      <p class="footer-title">Fractal Secular Acruelism</p>
+      <p class="footer-motto">No cruelty. No exceptions.</p>
       <p class="footer-link"><a href="https://github.com/nidx/fractal-secular-acruelism">Source on GitHub</a></p>
     </div>
   </footer>
@@ -46,34 +47,86 @@ const fullTitle = title === 'Home'
 
 <style>
   .main {
-    max-width: 900px;
+    max-width: 48rem;
     margin: 0 auto;
-    padding: var(--space-2xl) 1.5rem;
-    min-height: calc(100vh - 200px);
+    padding: var(--space-3xl) 1.5rem var(--space-2xl);
+    min-height: calc(100vh - 220px);
   }
 
   .footer {
-    border-top: 1px solid var(--border);
-    margin-top: var(--space-2xl);
+    margin-top: var(--space-3xl);
+  }
+
+  .footer-rule {
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    height: 1px;
+    position: relative;
+  }
+
+  .footer-rule::after {
+    content: '';
+    display: block;
+    height: 1px;
+    background: linear-gradient(
+      to right,
+      transparent,
+      var(--rule) 15%,
+      var(--rule) 85%,
+      transparent
+    );
   }
 
   .footer-inner {
-    max-width: 900px;
+    max-width: 48rem;
     margin: 0 auto;
-    padding: var(--space-xl) 1.5rem;
+    padding: var(--space-xl) 1.5rem var(--space-2xl);
     text-align: center;
   }
 
-  .footer-inner p {
-    max-width: 100%;
-    margin: 0 auto;
-    font-size: 0.85rem;
+  .footer-title {
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
     color: var(--text-dim);
-    letter-spacing: 0.05em;
+    margin: 0 auto;
+    max-width: 100%;
   }
 
-  .footer-sub {
-    margin-top: 0.25rem;
+  .footer-motto {
+    font-family: var(--font-body);
     font-style: italic;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin: var(--space-2xs) auto 0;
+    max-width: 100%;
+    opacity: 0.8;
+  }
+
+  .footer-link {
+    margin-top: var(--space-md);
+    max-width: 100%;
+  }
+
+  .footer-link a {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    letter-spacing: 0.04em;
+    border-bottom: 1px solid var(--border);
+    transition: color var(--transition-fast), border-color var(--transition-fast);
+  }
+
+  .footer-link a:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+
+  @media (max-width: 768px) {
+    .main {
+      padding: var(--space-2xl) 1.25rem var(--space-xl);
+    }
   }
 </style>

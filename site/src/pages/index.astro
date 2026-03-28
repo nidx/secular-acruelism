@@ -6,8 +6,9 @@ const base = import.meta.env.BASE_URL;
 <Base title="Home">
   <article class="home">
     <header class="home-header">
-      <h1>Fractal Secular Acruelism</h1>
-      <p class="subtitle">A political philosophy built on one principle: <strong>no cruelty, no exceptions.</strong></p>
+      <p class="home-kicker">A Political Philosophy</p>
+      <h1>Fractal Secular<br />Acruelism</h1>
+      <p class="subtitle">Built on one principle: <strong>no cruelty, no exceptions.</strong></p>
     </header>
 
     <section class="manifesto-brief">
@@ -92,20 +93,32 @@ const base = import.meta.env.BASE_URL;
       <h2>Documents</h2>
       <nav class="doc-list">
         <a href={`${base}principles/`} class="doc-link">
-          <span class="doc-title">Core Principles</span>
-          <span class="doc-desc">The thirty foundational principles</span>
+          <span class="doc-numeral">I</span>
+          <span class="doc-body">
+            <span class="doc-title">Core Principles</span>
+            <span class="doc-desc">The thirty foundational principles</span>
+          </span>
         </a>
         <a href={`${base}manifesto/`} class="doc-link">
-          <span class="doc-title">Full Manifesto</span>
-          <span class="doc-desc">Complete articulation of the philosophy</span>
+          <span class="doc-numeral">II</span>
+          <span class="doc-body">
+            <span class="doc-title">Full Manifesto</span>
+            <span class="doc-desc">Complete articulation of the philosophy</span>
+          </span>
         </a>
         <a href={`${base}constitution/`} class="doc-link">
-          <span class="doc-title">Constitution</span>
-          <span class="doc-desc">Model constitutional framework for a commonwealth</span>
+          <span class="doc-numeral">III</span>
+          <span class="doc-body">
+            <span class="doc-title">Constitution</span>
+            <span class="doc-desc">Model constitutional framework for a commonwealth</span>
+          </span>
         </a>
         <a href={`${base}charter/`} class="doc-link">
-          <span class="doc-title">Cooperative Charter</span>
-          <span class="doc-desc">Template charter for a worker-owned cooperative</span>
+          <span class="doc-numeral">IV</span>
+          <span class="doc-body">
+            <span class="doc-title">Cooperative Charter</span>
+            <span class="doc-desc">Template charter for a worker-owned cooperative</span>
+          </span>
         </a>
       </nav>
     </section>
@@ -120,25 +133,50 @@ const base = import.meta.env.BASE_URL;
 <style>
   .home-header {
     margin-bottom: var(--space-2xl);
+    padding-bottom: var(--space-xl);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .home-kicker {
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+    font-weight: 500;
+  }
+
+  .home-header h1 {
+    font-size: 3.2rem;
+    font-weight: 400;
+    line-height: 1.08;
+    letter-spacing: -0.01em;
+    margin-bottom: var(--space-md);
   }
 
   .subtitle {
     font-size: 1.15rem;
     color: var(--text-muted);
     max-width: var(--measure);
+    font-style: italic;
+    line-height: 1.6;
   }
 
   .manifesto-brief {
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-2xl);
   }
 
   .closing {
     font-weight: 600;
     color: var(--accent);
+    font-style: italic;
+    font-family: var(--font-display);
+    font-size: 1.1rem;
   }
 
   .key-ideas {
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-2xl);
   }
 
   .idea-list {
@@ -148,27 +186,30 @@ const base = import.meta.env.BASE_URL;
   }
 
   .idea {
-    padding: 0.75rem 0;
+    padding: 0.85rem 0;
     border-bottom: 1px solid var(--border);
+    display: grid;
+    gap: 0.15rem;
   }
 
-  .idea:last-child {
-    border-bottom: none;
+  .idea:first-child {
+    border-top: 1px solid var(--border);
   }
 
   dt {
+    font-family: var(--font-body);
     font-weight: 600;
     font-size: 0.95rem;
-    margin-bottom: 0.15rem;
   }
 
   dd {
     color: var(--text-muted);
-    font-size: 0.9rem;
+    font-size: 0.88rem;
+    line-height: 1.5;
   }
 
   .documents {
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--space-2xl);
   }
 
   .doc-list {
@@ -179,11 +220,13 @@ const base = import.meta.env.BASE_URL;
   }
 
   .doc-link {
-    display: block;
-    padding: 1rem 0;
+    display: flex;
+    align-items: flex-start;
+    gap: var(--space-md);
+    padding: var(--space-md) 0;
     border-bottom: 1px solid var(--border);
     text-decoration: none;
-    transition: background-color 0.15s ease;
+    transition: none;
   }
 
   .doc-link:first-child {
@@ -194,42 +237,83 @@ const base = import.meta.env.BASE_URL;
     border-bottom: 1px solid var(--border);
   }
 
+  .doc-numeral {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--accent-dim);
+    min-width: 1.5rem;
+    text-align: center;
+    padding-top: 0.1rem;
+    transition: color var(--transition-fast);
+    flex-shrink: 0;
+  }
+
+  .doc-link:hover .doc-numeral {
+    color: var(--accent);
+  }
+
+  .doc-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+
+  .doc-title {
+    font-family: var(--font-body);
+    font-weight: 600;
+    color: var(--text);
+    font-size: 0.95rem;
+    transition: color var(--transition-fast);
+  }
+
   .doc-link:hover .doc-title {
     color: var(--accent);
   }
 
-  .doc-title {
-    display: block;
-    font-weight: 600;
-    color: var(--text);
-    font-size: 1rem;
-    transition: color 0.15s ease;
-  }
-
   .doc-desc {
-    display: block;
-    color: var(--text-muted);
-    font-size: 0.85rem;
-    margin-top: 0.15rem;
+    color: var(--text-dim);
+    font-size: 0.83rem;
+    line-height: 1.4;
   }
 
   .test {
     background-color: var(--bg-surface);
-    padding: var(--space-lg);
-    border-left: 3px solid var(--accent-dim);
-    border-radius: 0 3px 3px 0;
+    padding: var(--space-lg) var(--space-xl);
+    border-left: 2px solid var(--accent-dim);
     max-width: var(--measure);
+    position: relative;
   }
 
   .test h2 {
     margin-top: 0;
     border-bottom: none;
     padding-bottom: 0;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
+    font-family: var(--font-display);
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
   }
 
   .test p {
     margin-bottom: 0;
     color: var(--text-muted);
+    font-size: 0.95rem;
+  }
+
+  @media (max-width: 768px) {
+    .home-header h1 {
+      font-size: 2.4rem;
+    }
+
+    .test {
+      padding: var(--space-md) var(--space-lg);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .home-header h1 {
+      font-size: 2rem;
+    }
   }
 </style>

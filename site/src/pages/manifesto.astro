@@ -5,6 +5,7 @@ import Base from '../layouts/Base.astro';
 <Base title="Manifesto" description="The complete manifesto of Fractal Secular Acruelism.">
   <article class="article-content">
     <header>
+      <p class="header-label">Document II</p>
       <h1>The Manifesto of Fractal Secular Acruelism</h1>
     </header>
 
@@ -183,9 +184,21 @@ import Base from '../layouts/Base.astro';
 </Base>
 
 <style>
+  .header-label {
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+    font-weight: 500;
+  }
+
   .closing {
     font-weight: 600;
     color: var(--accent);
     font-style: italic;
+    font-family: var(--font-display);
+    font-size: 1.1rem;
   }
 </style>

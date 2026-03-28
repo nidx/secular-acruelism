@@ -1,47 +1,74 @@
 /* =========================================
    Fractal Secular Acruelism — Global Styles
+   Constitutional Archive Aesthetic
    ========================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,500&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
   /* Dark theme (default) */
-  --bg: #0f0f0f;
-  --bg-surface: #1a1a1a;
-  --bg-elevated: #242424;
-  --text: #e0ddd5;
-  --text-muted: #9a9689;
-  --text-dim: #6b6860;
-  --accent: #c9a84c;
-  --accent-dim: #8a7535;
-  --border: #2a2a28;
-  --border-light: #3a3a36;
+  --bg: #0c0b09;
+  --bg-surface: #15140f;
+  --bg-elevated: #1e1c16;
+  --bg-recessed: #080704;
+  --text: #d8d3c7;
+  --text-muted: #9e9787;
+  --text-dim: #6b6558;
+  --accent: #c9a24e;
+  --accent-dim: #8a7030;
+  --accent-subtle: rgba(201, 162, 78, 0.08);
+  --border: #262419;
+  --border-light: #363225;
+  --border-accent: #3d3520;
+  --rule: #2a2720;
+  --rule-ornament: #3d3828;
 
-  --font-body: 'Charter', 'Georgia', 'Times New Roman', serif;
-  --font-heading: 'Charter', 'Georgia', 'Times New Roman', serif;
-  --font-mono: 'SF Mono', 'Menlo', 'Consolas', monospace;
+  --font-display: 'Cormorant Garamond', 'Garamond', 'Palatino', serif;
+  --font-body: 'Source Serif 4', 'Charter', 'Georgia', serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', 'Menlo', monospace;
+  --font-small-caps: 'Cormorant Garamond', 'Garamond', serif;
 
-  --measure: 68ch;
-  --space-xs: 0.25rem;
-  --space-sm: 0.5rem;
+  --measure: 65ch;
+  --measure-wide: 72ch;
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
   --space-md: 1rem;
-  --space-lg: 2rem;
-  --space-xl: 3rem;
-  --space-2xl: 5rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-elevated: 0 4px 12px rgba(0, 0, 0, 0.4);
+
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
 }
 
 [data-theme="light"] {
-  --bg: #f5f2eb;
-  --bg-surface: #eae6dd;
-  --bg-elevated: #dfdace;
-  --text: #1a1815;
-  --text-muted: #5a5750;
-  --text-dim: #8a8680;
-  --accent: #8a6b1a;
-  --accent-dim: #b89840;
-  --border: #d0cbbf;
-  --border-light: #c0bab0;
+  --bg: #f0ece2;
+  --bg-surface: #e6e1d4;
+  --bg-elevated: #dbd5c5;
+  --bg-recessed: #f5f2ea;
+  --text: #1c1a15;
+  --text-muted: #55514a;
+  --text-dim: #7d7870;
+  --accent: #8a6310;
+  --accent-dim: #b58c30;
+  --accent-subtle: rgba(138, 99, 16, 0.06);
+  --border: #cdc6b5;
+  --border-light: #bdb5a2;
+  --border-accent: #c4b897;
+  --rule: #d5cfc0;
+  --rule-ornament: #c0b8a5;
+
+  --shadow-subtle: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-elevated: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* Reset */
+/* ---- Reset ---- */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -49,7 +76,7 @@
 }
 
 html {
-  font-size: 18px;
+  font-size: 17px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
 }
@@ -58,52 +85,62 @@ body {
   font-family: var(--font-body);
   background-color: var(--bg);
   color: var(--text);
-  line-height: 1.7;
+  line-height: 1.75;
   min-height: 100vh;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'kern' 1, 'liga' 1, 'onum' 1;
 }
 
-/* Typography */
+/* ---- Typography ---- */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading);
-  font-weight: 600;
-  line-height: 1.25;
+  font-family: var(--font-display);
   color: var(--text);
+  line-height: 1.2;
+  font-weight: 600;
 }
 
 h1 {
-  font-size: 2.2rem;
-  letter-spacing: -0.02em;
+  font-size: 2.6rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
   margin-bottom: var(--space-lg);
+  line-height: 1.15;
 }
 
 h2 {
-  font-size: 1.5rem;
-  letter-spacing: -0.01em;
-  margin-top: var(--space-2xl);
+  font-size: 1.65rem;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+  margin-top: var(--space-3xl);
   margin-bottom: var(--space-md);
-  padding-bottom: var(--space-sm);
-  border-bottom: 1px solid var(--border);
+  padding-bottom: var(--space-xs);
+  border-bottom: 1px solid var(--rule);
+  position: relative;
 }
 
 h3 {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
+  font-weight: 600;
   margin-top: var(--space-xl);
-  margin-bottom: var(--space-sm);
+  margin-bottom: var(--space-xs);
   color: var(--accent);
+  font-family: var(--font-body);
+  letter-spacing: 0.01em;
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 1.05rem;
   margin-top: var(--space-lg);
-  margin-bottom: var(--space-sm);
+  margin-bottom: var(--space-xs);
+  font-family: var(--font-body);
 }
 
 p {
   margin-bottom: var(--space-md);
   max-width: var(--measure);
+  hanging-punctuation: first last;
 }
 
 strong {
@@ -119,7 +156,7 @@ a {
   color: var(--accent);
   text-decoration: none;
   border-bottom: 1px solid transparent;
-  transition: border-color 0.2s ease;
+  transition: border-color var(--transition-fast), color var(--transition-fast);
 }
 
 a:hover {
@@ -127,7 +164,7 @@ a:hover {
 }
 
 blockquote {
-  border-left: 3px solid var(--accent-dim);
+  border-left: 2px solid var(--accent-dim);
   padding-left: var(--space-lg);
   margin: var(--space-lg) 0;
   color: var(--text-muted);
@@ -136,8 +173,33 @@ blockquote {
 
 hr {
   border: none;
-  border-top: 1px solid var(--border);
-  margin: var(--space-2xl) 0;
+  height: 0;
+  margin: var(--space-3xl) 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+hr::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 1px;
+  background: var(--rule);
+}
+
+hr::after {
+  content: '\2726';
+  position: relative;
+  z-index: 1;
+  background: var(--bg);
+  padding: 0 1rem;
+  color: var(--rule-ornament);
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
 }
 
 ul, ol {
@@ -147,14 +209,20 @@ ul, ol {
 }
 
 li {
-  margin-bottom: var(--space-xs);
+  margin-bottom: var(--space-2xs);
 }
 
 li + li {
-  margin-top: var(--space-xs);
+  margin-top: var(--space-2xs);
 }
 
-/* Article content */
+/* ---- Article content ---- */
+.article-content header {
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-lg);
+  border-bottom: 1px solid var(--rule);
+}
+
 .article-content h2:first-of-type {
   margin-top: var(--space-xl);
 }
@@ -176,7 +244,6 @@ li + li {
   color: var(--text-dim);
 }
 
-/* Nested lists inside article-content (constitution lists) */
 .article-content ul ul li::before,
 .article-content ol li::before {
   content: none;
@@ -190,18 +257,27 @@ li + li {
   padding-left: 0;
 }
 
-/* Responsive */
+/* ---- Responsive ---- */
 @media (max-width: 768px) {
   html {
     font-size: 16px;
   }
 
   h1 {
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
 
   h2 {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
+    margin-top: var(--space-2xl);
+  }
+
+  h3 {
+    margin-top: var(--space-lg);
+  }
+
+  hr {
+    margin: var(--space-2xl) 0;
   }
 }
 
@@ -211,12 +287,35 @@ li + li {
   }
 
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 }
 
-/* Selection */
+/* ---- Selection ---- */
 ::selection {
   background-color: var(--accent-dim);
-  color: var(--text);
+  color: var(--bg);
+}
+
+[data-theme="light"] ::selection {
+  background-color: var(--accent);
+  color: #fff;
+}
+
+/* ---- Scrollbar (subtle, matching) ---- */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-light);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-dim);
 }

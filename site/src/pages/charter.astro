@@ -5,6 +5,7 @@ import Base from '../layouts/Base.astro';
 <Base title="Cooperative Charter" description="Model charter for a Fractal Secular Acruelist cooperative.">
   <article class="article-content charter">
     <header>
+      <p class="header-label">Document IV</p>
       <h1>Model Charter for a Fractal Secular Acruelist Cooperative</h1>
     </header>
 
@@ -210,20 +211,31 @@ import Base from '../layouts/Base.astro';
 </Base>
 
 <style>
+  .header-label {
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+    font-weight: 500;
+  }
+
   .vote-scale {
     display: grid;
     grid-template-columns: auto 1fr;
-    gap: 0.25rem 1rem;
+    gap: 0.35rem 1.25rem;
     max-width: var(--measure);
     margin: var(--space-md) 0;
-    padding: var(--space-md) var(--space-lg);
+    padding: var(--space-md) var(--space-xl);
     background-color: var(--bg-surface);
-    border-radius: 3px;
+    border-left: 2px solid var(--accent-dim);
   }
 
   .vote-scale dt {
     font-weight: 600;
     font-size: 0.9rem;
+    font-family: var(--font-body);
   }
 
   .vote-scale dd {
@@ -239,8 +251,16 @@ import Base from '../layouts/Base.astro';
   }
 
   .adoption-note {
-    margin-top: var(--space-2xl);
+    margin-top: var(--space-3xl);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--rule);
     color: var(--text-dim);
     font-size: 0.9rem;
+  }
+
+  @media (max-width: 768px) {
+    .vote-scale {
+      padding: var(--space-sm) var(--space-lg);
+    }
   }
 </style>
