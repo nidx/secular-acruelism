@@ -1,0 +1,78 @@
+---
+import Navigation from '../components/Navigation.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'A political philosophy built on one principle: no cruelty, no exceptions.' } = Astro.props;
+const fullTitle = title === 'Home'
+  ? 'Fractal Secular Acruelism'
+  : `${title} — Fractal Secular Acruelism`;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content={description} />
+  <title>{fullTitle}</title>
+  <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+  <script is:inline>
+    // Prevent flash of wrong theme
+    (function() {
+      const saved = localStorage.getItem('theme');
+      if (saved) document.documentElement.setAttribute('data-theme', saved);
+    })();
+  </script>
+</head>
+<body>
+  <Navigation />
+  <main class="main">
+    <slot />
+  </main>
+  <footer class="footer">
+    <div class="footer-inner">
+      <p>Fractal Secular Acruelism</p>
+      <p class="footer-sub">No cruelty. No exceptions.</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+<style>
+  .main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: var(--space-2xl) 1.5rem;
+    min-height: calc(100vh - 200px);
+  }
+
+  .footer {
+    border-top: 1px solid var(--border);
+    margin-top: var(--space-2xl);
+  }
+
+  .footer-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: var(--space-xl) 1.5rem;
+    text-align: center;
+  }
+
+  .footer-inner p {
+    max-width: 100%;
+    margin: 0 auto;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+  }
+
+  .footer-sub {
+    margin-top: 0.25rem;
+    font-style: italic;
+  }
+</style>

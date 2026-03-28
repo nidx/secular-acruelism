@@ -1,0 +1,235 @@
+---
+import Base from '../layouts/Base.astro';
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="Home">
+  <article class="home">
+    <header class="home-header">
+      <h1>Fractal Secular Acruelism</h1>
+      <p class="subtitle">A political philosophy built on one principle: <strong>no cruelty, no exceptions.</strong></p>
+    </header>
+
+    <section class="manifesto-brief">
+      <p>We believe that cruelty is the measure of a system's failure.</p>
+
+      <p>A society that permits cruelty — to its workers, its prisoners, its poor, its strangers — is not a society worth preserving. It does not matter if the cruelty is legal. It does not matter if it was voted on. It does not matter if no single person intended it. If the system produces cruelty, the system is broken.</p>
+
+      <p>We propose something simple: build every institution, every law, every structure of power around one prohibition. <strong>No cruelty. No exceptions.</strong></p>
+
+      <p>From this, everything follows.</p>
+
+      <p>If cruelty is impermissible, then no one may fall into destitution — so we build a floor beneath every person, defined by standard of living, not by a number. If cruelty is impermissible, then no one may hoard wealth while others lack — so we tie the ceiling to the floor. If cruelty is impermissible, then labor must not be exploited — so the workers own the enterprise and make the decisions. If cruelty is impermissible, then majorities cannot crush minorities — so we govern by consensus, not by count. If cruelty is impermissible, then prisons cannot be torture — so we treat justice as healthcare. If cruelty is impermissible, then religion cannot be imposed — so governance is fully secular. If cruelty is impermissible, then we cannot profit from suffering abroad — so trade is conditional on human decency. If cruelty is impermissible, then ecosystems cannot be destroyed — so the environment is protected for future citizens. If cruelty is impermissible, then essential infrastructure cannot be gatekept — so monopolies are public. If cruelty is impermissible, then no one may be forced to suffer against their will — so the right to die is absolute.</p>
+
+      <p>The land belongs to the commonwealth. The utilities belong to the people. Ideas belong to everyone, eventually. Creators get rewarded, but no one owns a concept forever. The military defends without cruelty. Immigration is welcome when resources allow. Children and the vulnerable have advocates with real power. Emergencies do not suspend rights.</p>
+
+      <p>If the exception can break the system, the system is the problem — not the exception.</p>
+
+      <p>This is not utopian. This is a single principle, applied without exception, at every scale.</p>
+
+      <p>The hardest part is not the policy. The hardest part is convincing people that the person outside their tribe deserves the same protection. We believe that small, working examples will do more convincing than any argument.</p>
+
+      <p>Start a co-op. Prove it works. Scale it. Refuse to make exceptions.</p>
+
+      <p class="closing">That is Fractal Secular Acruelism.</p>
+    </section>
+
+    <section class="key-ideas">
+      <h2>Key Ideas</h2>
+      <dl class="idea-list">
+        <div class="idea">
+          <dt>Anti-cruelty as constitutional bedrock</dt>
+          <dd>Non-negotiable, non-amendable, no exceptions</dd>
+        </div>
+        <div class="idea">
+          <dt>Fully secular governance</dt>
+          <dd>Religion has zero role in the structure of power</dd>
+        </div>
+        <div class="idea">
+          <dt>Worker-owned cooperatives</dt>
+          <dd>Labor makes the decisions, capital gets bonds not votes</dd>
+        </div>
+        <div class="idea">
+          <dt>Liquid democracy</dt>
+          <dd>Delegate your vote to proxies you trust, or vote directly</dd>
+        </div>
+        <div class="idea">
+          <dt>Graded fractional consensus</dt>
+          <dd>Fractional votes across a spectrum, measured by cohesion not count, with structural privacy built into the math</dd>
+        </div>
+        <div class="idea">
+          <dt>The floor and the ceiling</dt>
+          <dd>Universal safety net indexed to standard of living, funded by capping wealth concentration</dd>
+        </div>
+        <div class="idea">
+          <dt>Justice as healthcare</dt>
+          <dd>Tribunals, rehabilitation, no solitary, no punishment</dd>
+        </div>
+        <div class="idea">
+          <dt>Land as commonwealth</dt>
+          <dd>No private land ownership, no speculation, no landlording</dd>
+        </div>
+        <div class="idea">
+          <dt>Infrastructure as commons</dt>
+          <dd>Natural monopolies are public: power, water, internet</dd>
+        </div>
+        <div class="idea">
+          <dt>No perpetual control</dt>
+          <dd>Bonds mature, IP expires, land is allocated not owned, everything has a lifecycle</dd>
+        </div>
+        <div class="idea">
+          <dt>No emergency exceptions</dt>
+          <dd>The constitution is never suspended</dd>
+        </div>
+        <div class="idea">
+          <dt>System resilience</dt>
+          <dd>If the exception breaks the system, the system is the problem</dd>
+        </div>
+      </dl>
+    </section>
+
+    <section class="documents">
+      <h2>Documents</h2>
+      <nav class="doc-list">
+        <a href={`${base}principles/`} class="doc-link">
+          <span class="doc-title">Core Principles</span>
+          <span class="doc-desc">The thirty foundational principles</span>
+        </a>
+        <a href={`${base}manifesto/`} class="doc-link">
+          <span class="doc-title">Full Manifesto</span>
+          <span class="doc-desc">Complete articulation of the philosophy</span>
+        </a>
+        <a href={`${base}constitution/`} class="doc-link">
+          <span class="doc-title">Constitution</span>
+          <span class="doc-desc">Model constitutional framework for a commonwealth</span>
+        </a>
+        <a href={`${base}charter/`} class="doc-link">
+          <span class="doc-title">Cooperative Charter</span>
+          <span class="doc-desc">Template charter for a worker-owned cooperative</span>
+        </a>
+      </nav>
+    </section>
+
+    <section class="test">
+      <h2>The Test</h2>
+      <p>If a system needs an exception, the system is wrong — not the edge case. A principle that requires a carve-out was never a principle. It was a preference. Every part of this framework is held to that standard.</p>
+    </section>
+  </article>
+</Base>
+
+<style>
+  .home-header {
+    margin-bottom: var(--space-2xl);
+  }
+
+  .subtitle {
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    max-width: var(--measure);
+  }
+
+  .manifesto-brief {
+    margin-bottom: var(--space-xl);
+  }
+
+  .closing {
+    font-weight: 600;
+    color: var(--accent);
+  }
+
+  .key-ideas {
+    margin-bottom: var(--space-xl);
+  }
+
+  .idea-list {
+    display: grid;
+    gap: 0;
+    max-width: var(--measure);
+  }
+
+  .idea {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .idea:last-child {
+    border-bottom: none;
+  }
+
+  dt {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 0.15rem;
+  }
+
+  dd {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+  }
+
+  .documents {
+    margin-bottom: var(--space-xl);
+  }
+
+  .doc-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    max-width: var(--measure);
+  }
+
+  .doc-link {
+    display: block;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    transition: background-color 0.15s ease;
+  }
+
+  .doc-link:first-child {
+    border-top: 1px solid var(--border);
+  }
+
+  .doc-link:hover {
+    border-bottom: 1px solid var(--border);
+  }
+
+  .doc-link:hover .doc-title {
+    color: var(--accent);
+  }
+
+  .doc-title {
+    display: block;
+    font-weight: 600;
+    color: var(--text);
+    font-size: 1rem;
+    transition: color 0.15s ease;
+  }
+
+  .doc-desc {
+    display: block;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-top: 0.15rem;
+  }
+
+  .test {
+    background-color: var(--bg-surface);
+    padding: var(--space-lg);
+    border-left: 3px solid var(--accent-dim);
+    border-radius: 0 3px 3px 0;
+    max-width: var(--measure);
+  }
+
+  .test h2 {
+    margin-top: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    font-size: 1.1rem;
+  }
+
+  .test p {
+    margin-bottom: 0;
+    color: var(--text-muted);
+  }
+</style>
